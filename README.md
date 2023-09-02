@@ -14,3 +14,8 @@
 本项目为基于PaddleSeg利用unet模型实现了基于神经网络的图像分割软件的开发。
 ppt与报告直接给出，PaddleSeg-UI文件夹下为软件的代码、数据及部分预训练模型。
 软件部分配置好环境后直接运行该文件夹下的ui.py即可。
+
+软件已上传至百度网盘
+链接：https://pan.baidu.com/s/1Apbv27ynyqLXHKcgQbFQqw?pwd=1111 
+提取码：1111 
+
